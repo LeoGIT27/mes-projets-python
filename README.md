@@ -1,1 +1,8 @@
-# mes-projets-python
+Hi! My name is Leonardo and I'm 12. I live in France, more precisely in Grenoble. My school is named Bayard and is also located in Grenoble.
+
+My passion is coding. I code with Pycharm and I love using extensions such as Ursina (for 3d projects) or Pygame.
+I only use AI when I need help or if I don't understand something whether it's in my Python projects or not. AI is important, because without it, wouldn't be this good (when we do mistakes), or even this much evolved. But not everybody use this tool as it should be used. I'd love making presentations to show to the world how to use it and explaining lot's of stuff about that, so everybody's questions can be answered. I also love hardware stuff. Why? Because one day, I was really board, and I remember that there was a box in my basement with lots of old computers and old iPads. Since waiting for dinner and doing nothing was a tedious option for me, I brought the box up and opened it. I turned on everything, and when something was malfunctioning, I opened it to see what was going on. I loved looking at the composants of the object that I was opening, and time passed really quickly.
+
+My dream job is Computer science or Software engineering. I think that I prefer software stuff, even if it's a hard thing to tell because I also love hardware. I want to be famous by inventing something that can revolutionise the world, like the guy who created internet, or Steve Jobs that created apple...and other famous people.
+
+That's a little resume about myself, thanks for spending time to read this and I wish you a great day.
